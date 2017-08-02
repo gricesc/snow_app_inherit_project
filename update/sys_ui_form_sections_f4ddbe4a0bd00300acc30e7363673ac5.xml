@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="f4ddbe4a0bd00300acc30e7363673ac5" sys_domain="global" table="sn_crm_project" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8ddfe4a0bd00300acc30e7363673a3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_crm_project" sys_domain="global" view="Default view">78ddfe4a0bd00300acc30e7363673a3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4ddfe4a0bd00300acc30e7363673a60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="sn_crm_project" sys_domain="global" view="Default view">b0ddfe4a0bd00300acc30e7363673a45</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4ddfe4a0bd00300acc30e7363673a40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="sn_crm_project" sys_domain="global" view="Default view">bcddfe4a0bd00300acc30e7363673a3d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30ddfe4a0bd00300acc30e7363673a43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Business Case" display_value="Business Case" name="sn_crm_project" sys_domain="global" view="Default view">b8ddfe4a0bd00300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ddfe4a0bd00300acc30e7363673a3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Financials" display_value="Financials" name="sn_crm_project" sys_domain="global" view="Default view">b0ddbe4a0bd00300acc30e7363673ac9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcddfe4a0bd00300acc30e7363673a44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sn_crm_project" sys_domain="global" view="Default view">34ddfe4a0bd00300acc30e7363673a43</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8ddbe4a0bd00300acc30e7363673ac8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_project" name="sn_crm_project" sys_domain="global" view="Default view">f4ddbe4a0bd00300acc30e7363673ac5</sys_ui_form>
+            <sys_ui_section caption="Preferences" display_value="Preferences" name="sn_crm_project" sys_domain="global" view="Default view">30ddbe4a0bd00300acc30e7363673ac7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_crm_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 07:26:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4ddbe4a0bd00300acc30e7363673ac5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_crm_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f4ddbe4a0bd00300acc30e7363673ac5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 07:26:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

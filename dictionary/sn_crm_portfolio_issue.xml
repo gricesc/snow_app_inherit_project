@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="pm_portfolio_issue" label="Portfolio issue" max_length="40" name="sn_crm_portfolio_issue" type="collection"/>
+</database>

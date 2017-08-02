@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="dmn_demand" label="Demand" max_length="40" name="sn_crm_demand" sizeclass="1" type="collection"/>
+</database>

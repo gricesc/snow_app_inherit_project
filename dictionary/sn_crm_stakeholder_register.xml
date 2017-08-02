@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="dmn_stakeholder_register" label="Stakeholder register" max_length="40" name="sn_crm_stakeholder_register" type="collection"/>
+</database>

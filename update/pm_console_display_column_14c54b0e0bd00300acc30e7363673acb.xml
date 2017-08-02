@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pm_console_display_column">
+    <pm_console_display_column action="INSERT_OR_UPDATE">
+        <can_hide>true</can_hide>
+        <fire_br>false</fire_br>
+        <hidden>true</hidden>
+        <json_column>original_end_date</json_column>
+        <label>Original end date</label>
+        <order>1500</order>
+        <pm_console display_value="sn_crm_project">2ba3cfca0bd00300acc30e7363673afd</pm_console>
+        <sortable>false</sortable>
+        <sys_class_name>pm_console_display_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-02 08:01:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>14c54b0e0bd00300acc30e7363673acb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Original end date</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+        <sys_update_name>pm_console_display_column_14c54b0e0bd00300acc30e7363673acb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-02 08:01:24</sys_updated_on>
+        <tooltip>false</tooltip>
+        <trigger_recalculation>false</trigger_recalculation>
+        <type>glide_date_time</type>
+        <width>75</width>
+    </pm_console_display_column>
+</record_update>

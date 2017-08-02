@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Assessment Data" section_id="8d7a6ab90b900300acc30e7363673a40" sys_domain="global" table="sn_crm_demand" version="3" view="planning_console">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>497a6ab90b900300acc30e7363673a41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_case</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>c97a6ab90b900300acc30e7363673a41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>4d7a6ab90b900300acc30e7363673a41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>cd7a6ab90b900300acc30e7363673a41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>417a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capital_outlay</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>c17a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>labor_costs</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>457a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_costs</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>c57a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>497a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>c97a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>financial_benefit</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>4d7a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>financial_return</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>cd7a6ab90b900300acc30e7363673a42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_roi</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>417a6ab90b900300acc30e7363673a43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_id>c17a6ab90b900300acc30e7363673a43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Assessment Data</caption>
+            <header>false</header>
+            <name>sn_crm_demand</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 11:23:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d7a6ab90b900300acc30e7363673a40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assessment Data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+            <sys_update_name>sys_ui_section_8d7a6ab90b900300acc30e7363673a40</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 11:23:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Planning Console" name="planning_console">d38d80523713310033cb26877e41f1c2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

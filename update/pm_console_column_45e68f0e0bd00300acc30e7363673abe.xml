@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pm_console_column">
+    <pm_console_column action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <column>work_end</column>
+        <editable>true</editable>
+        <editable_in_defered_save>true</editable_in_defered_save>
+        <pm_console_display_column display_value="Actual end date">94c54b0e0bd00300acc30e7363673ace</pm_console_display_column>
+        <pm_console_table display_value="sn_crm_project_task">2ba3030e0bd00300acc30e7363673a00</pm_console_table>
+        <seeded>false</seeded>
+        <sys_class_name>pm_console_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-02 08:06:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>45e68f0e0bd00300acc30e7363673abe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>work_end</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+        <sys_update_name>pm_console_column_45e68f0e0bd00300acc30e7363673abe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-02 08:11:59</sys_updated_on>
+        <table>sn_crm_project_task</table>
+    </pm_console_column>
+</record_update>

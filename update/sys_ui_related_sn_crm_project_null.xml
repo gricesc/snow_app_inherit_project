@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sn_crm_project" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sn_crm_project_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>267227060b140300acc30e7363673a1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>pm_project.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2e7227060b140300acc30e7363673a1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>rm_story.project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>227227060b140300acc30e7363673a1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>dmn_requirement.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>267227060b140300acc30e7363673a1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:1fd44d3383b10100829b45338ef622f4</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2a7227060b140300acc30e7363673a1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>REL:2af4e2d193611200ea933007f67ffb8b</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2e7227060b140300acc30e7363673a1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>REL:d2cb9c809f332200598a5bb0657fcf18</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>227227060b140300acc30e7363673a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>project_funding.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>267227060b140300acc30e7363673a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>planned_task_baseline.top_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2a7227060b140300acc30e7363673a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>project_status.project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2e7227060b140300acc30e7363673a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>risk.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>227227060b140300acc30e7363673a1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>11</position>
+            <related_list>issue.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>267227060b140300acc30e7363673a1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>12</position>
+            <related_list>project_change_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2a7227060b140300acc30e7363673a1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>13</position>
+            <related_list>time_card.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>2e7227060b140300acc30e7363673a1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>14</position>
+            <related_list>fm_expense_line.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>227227060b140300acc30e7363673a1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="sn_crm_project" related_list="NULL" sys_domain="global" view="Default view">2a7227060b140300acc30e7363673a19</list_id>
+            <order_by/>
+            <position>15</position>
+            <related_list>REL:6320894937201200455726877e41f1fb</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_id>267227060b140300acc30e7363673a1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Project - Default view</calculated_name>
+            <filter/>
+            <name>sn_crm_project</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-02 10:06:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a7227060b140300acc30e7363673a19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project - Default view</sys_name>
+            <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+            <sys_update_name>sys_ui_related_sn_crm_project_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-02 10:06:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

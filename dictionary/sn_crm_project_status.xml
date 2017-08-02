@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="project_status" label="Project status" max_length="40" name="sn_crm_project_status" type="collection"/>
+</database>
