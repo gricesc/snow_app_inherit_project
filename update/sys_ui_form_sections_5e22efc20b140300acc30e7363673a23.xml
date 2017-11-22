@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a27</sys_ui_section>
+            <sys_ui_section display_value="">5e22efc20b140300acc30e7363673a27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="tsp1_project_task" sys_domain="global" view="Default view">de2263060b140300acc30e7363673a27</sys_ui_section>
+            <sys_ui_section display_value="">de2263060b140300acc30e7363673a27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="Agile" display_value="Agile" name="tsp1_project_task" sys_domain="global" view="Default view">9a2263060b140300acc30e7363673a2b</sys_ui_section>
+            <sys_ui_section display_value="">9a2263060b140300acc30e7363673a2b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>
@@ -53,7 +53,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="Dates" display_value="Dates" name="tsp1_project_task" sys_domain="global" view="Default view">1a22efc20b140300acc30e7363673a25</sys_ui_section>
+            <sys_ui_section display_value="">1a22efc20b140300acc30e7363673a25</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>
@@ -67,7 +67,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="Notes" display_value="Notes" name="tsp1_project_task" sys_domain="global" view="Default view">522263060b140300acc30e7363673a2a</sys_ui_section>
+            <sys_ui_section display_value="">522263060b140300acc30e7363673a2a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>
@@ -81,7 +81,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="tsp1_project_task" name="tsp1_project_task" sys_domain="global" view="Default view">5e22efc20b140300acc30e7363673a23</sys_ui_form>
-            <sys_ui_section caption="Checklist" display_value="Checklist" name="tsp1_project_task" sys_domain="global" view="Default view">162263060b140300acc30e7363673a2d</sys_ui_section>
+            <sys_ui_section display_value="">162263060b140300acc30e7363673a2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-02 10:05:30</sys_updated_on>
         </sys_ui_form_section>

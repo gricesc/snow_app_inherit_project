@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
-        <contains display_value="portfolio_manager" name="portfolio_manager">376dceab0b800300acc30e7363673ad2</contains>
+        <contains display_value="portfolio_manager" name="portfolio_manager">2739db70db35030050fe51035e9619a4</contains>
         <role display_value="sn_crm.portfolio_manager" name="sn_crm.portfolio_manager">793716b50b900300acc30e7363673ad9</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>

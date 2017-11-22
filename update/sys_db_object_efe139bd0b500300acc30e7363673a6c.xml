@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Project Task" name="pm_project_task">135a85530b000300acc30e7363673ac5</super_class>
+        <super_class display_value="Project Task" name="pm_project_task">b619df30db35030050fe51035e961989</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

@@ -5,22 +5,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_crm_project_template_task</name>
+        <name>sn_crm_portfolio_goal</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-01 08:35:55</sys_created_on>
-        <sys_id>d014c6b10b900300acc30e7363673a0b</sys_id>
+        <sys_created_on>2017-08-01 08:29:44</sys_created_on>
+        <sys_id>be5be5160f26030021996d28b1050ece</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_crm_project_template_task</sys_name>
+        <sys_name>sn_crm_portfolio_goal</sys_name>
         <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
         <sys_policy/>
         <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_d014c6b10b900300acc30e7363673a0b</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_be5be5160f26030021996d28b1050ece</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-01 08:35:55</sys_updated_on>
+        <sys_updated_on>2017-08-01 08:29:44</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

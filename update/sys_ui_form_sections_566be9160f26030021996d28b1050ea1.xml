@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="566be9160f26030021996d28b1050ea1" sys_domain="global" table="sn_crm_demand" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-22 16:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e6be9160f26030021996d28b1050ea1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_demand" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">566be9160f26030021996d28b1050ea1</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">497a6ab90b900300acc30e7363673a43</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-22 16:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-22 16:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a6be9160f26030021996d28b1050ea2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_demand" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">566be9160f26030021996d28b1050ea1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">4d7aa6b90b900300acc30e7363673af4</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-22 16:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-22 16:26:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da6be9160f26030021996d28b1050ec7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_demand" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">566be9160f26030021996d28b1050ea1</sys_ui_form>
+            <sys_ui_section caption="Resource Cost" display_value="Resource Cost" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">817aa6b90b900300acc30e7363673af2</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-22 16:26:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-22 16:26:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d66be9160f26030021996d28b1050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_crm_demand" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">566be9160f26030021996d28b1050ea1</sys_ui_form>
+            <sys_ui_section caption="Assessment Data" display_value="Assessment Data" name="sn_crm_demand" sys_domain="global" view="d38d80523713310033cb26877e41f1c2">8d7a6ab90b900300acc30e7363673a40</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-22 16:26:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_crm_demand</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-22 16:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>566be9160f26030021996d28b1050ea1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_crm_demand</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="crm" source="sn_crm">bc61b1bd0b500300acc30e7363673a8e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="crm">bc61b1bd0b500300acc30e7363673a8e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_566be9160f26030021996d28b1050ea1</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-22 16:26:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Planning Console" name="planning_console">d38d80523713310033cb26877e41f1c2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

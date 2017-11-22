@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
-        <contains display_value="demand_manager" name="demand_manager">6bfa40118f52110040f82ab2f0f923ef</contains>
+        <contains display_value="demand_manager" name="demand_manager">2f39db70db35030050fe51035e961999</contains>
         <role display_value="sn_crm.demand_manager" name="sn_crm.demand_manager">f2794af10b900300acc30e7363673a88</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>

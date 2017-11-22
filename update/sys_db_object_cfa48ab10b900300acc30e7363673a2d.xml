@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Stakeholder Register" name="dmn_stakeholder_register">e6215d9b0b000300acc30e7363673ad6</super_class>
+        <super_class display_value="Stakeholder Register" name="dmn_stakeholder_register">88295370db35030050fe51035e961991</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

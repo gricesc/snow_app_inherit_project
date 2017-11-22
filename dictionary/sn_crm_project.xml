@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="pm_project" label="Project" max_length="40" name="sn_crm_project" sizeclass="2" type="collection"/>
+    <element extends="pm_project" label="Project" max_length="40" name="sn_crm_project" type="collection"/>
 </database>
